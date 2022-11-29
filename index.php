@@ -10,5 +10,6 @@
     <h1>soy el index</h1>
     <h1>soy el index</h1>
     <h1>soy el index modificado desde github</h1>
+    <h2>Esta modificacion es desde VSCode local</h2>
 </body>
 </html>
